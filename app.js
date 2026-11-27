@@ -1,9 +1,9 @@
 const portfolio = {
     "tema": {
-        "corPrimaria": "#2563eb",
-        "corFundo": "#0f172a",
-        "corCard": "#1e293b",
-        "corTexto": "#f8fafc"
+      "corPrimaria": "#10b981",
+      "corFundo": "#090d16",
+      "corCard": "#111827",
+      "corTexto": "#f9fafb"
     },
     "perfil": {
         "nome": "Lucas Vinícius",
