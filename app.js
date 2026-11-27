@@ -6,7 +6,7 @@ const portfolio = {
         "corTexto": "#f8fafc"
     },
     "perfil": {
-        "nome": "Seu Nome Aqui",
+        "nome": "Lucas Vinícius",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
         "foto": "./assets/avatar-placeholder.png",
@@ -26,7 +26,7 @@ const portfolio = {
             "id": "sobre",
             "titulo": "Sobre mim",
             "tipo": "texto",
-            "conteudo": "Escreva aqui um parágrafo contando sua trajetória, interesses e o que você busca na área de tecnologia."
+            "conteudo": "Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia e resolução de problemas. Iniciei minha trajetória prática na área através da formação no programa Jovem Tech, onde construí uma base sólida em programação e desenvolvi projetos reais aplicando boas práticas de código e trabalho em equipe. Tenho grande interesse em desenvolvimento de software e criação de soluções eficientes que facilitem o dia a dia das pessoas. Atualmente, busco minha primeira oportunidade como estágio ou desenvolvedor júnior em um ambiente colaborativo, onde eu possa colocar meus conhecimentos em prática, aprender com profissionais experientes e evoluir constantemente na área."
         },
         {
             "id": "habilidades",
