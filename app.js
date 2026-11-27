@@ -45,8 +45,8 @@ const portfolio = {
             "tipo": "cards",
             "itens": [
                 {
-                    "titulo": "Projeto Exemplo 1",
-                    "descricao": "Breve descrição do que o projeto faz e qual problema resolve.",
+                    "titulo": "Dashboard",
+                    "descricao": "Desenvolvi um dashboard interativo em Python voltado para a organização, análise e visualização clara de dados, transformando informações brutas em gráficos intuitivos para apoiar a tomada de decisão",
                     "tags": [
                         "HTML",
                         "CSS"
@@ -54,8 +54,8 @@ const portfolio = {
                     "link": "https://github.com"
                 },
                 {
-                    "titulo": "Projeto Exemplo 2",
-                    "descricao": "Outro projeto que você desenvolveu durante o curso ou por conta própria.",
+                    "titulo": "Sistema de reservas",
+                    "descricao": "Além disso, construí um sistema de reservas completo utilizando HTML, CSS e JavaScript, com foco em uma interface responsiva, boa experiência do usuário e interatividade no agendamento e gerenciamento de horários.",
                     "tags": [
                         "JavaScript",
                         "API"
