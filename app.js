@@ -9,7 +9,7 @@ const portfolio = {
         "nome": "Lucas Vinícius",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
-        "foto": "./assets/x",
+        "foto": "./assets/x.jpg",
         "links": [
             {
                 "rotulo": "GitHub",
