@@ -13,7 +13,7 @@ const portfolio = {
         "links": [
             {
                 "rotulo": "GitHub",
-                "url": "https://github.com"
+                "url": "https://github.com/lucasvnunes-lgtm"
             },
             {
                 "rotulo": "LinkedIn",
